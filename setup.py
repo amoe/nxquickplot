@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="nxquickplot",
-    version="0.0.3",
+    version="1.0.0",
     author="David Banks",
     author_email="amoebae@gmail.com",
     description="Convenience package for drawing NetworkX graphs",
